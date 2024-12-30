@@ -65,7 +65,7 @@
 
 ## Development
 
-- **Developer:** [Lin8x](https://lin8x.itch.io/)
+- **Developer:** [Lin8x](https://lin8x.itch.io/), OM Global
 - **Tools Used:** Blender, Adobe Photoshop, GIMP, Unreal Engine
 
 <br>
