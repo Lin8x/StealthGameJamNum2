@@ -1,6 +1,6 @@
 # Plague Hunter
 
-![Plague Hunter Banner](https://github.com/Lin8x/lin8x/blob/main/Images/PlagueHunterBanner.png)
+![Plague Hunter Banner](https://raw.githubusercontent.com/Lin8x/StealthGameJamNum2/master/images/plagueHunter1.png)
 
 ## Overview
 
@@ -22,12 +22,15 @@
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/Lin8x/lin8x/blob/main/Images/plagueHunter1.png)
-![Screenshot 2](https://github.com/Lin8x/lin8x/blob/main/Images/plagueHunter2.png)
-![Screenshot 3](https://github.com/Lin8x/lin8x/blob/main/Images/plagueHunter3.png)
-![Screenshot 4](https://github.com/Lin8x/lin8x/blob/main/Images/plagueHunter4.png)
-![Screenshot 5](https://github.com/Lin8x/lin8x/blob/main/Images/plagueHunter5.png)
-![Screenshot 6](https://github.com/Lin8x/lin8x/blob/main/Images/plagueHunter6.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lin8x/StealthGameJamNum2/master/images/plagueHunter2.png" width="30%" alt="Screenshot 2">
+  <img src="https://raw.githubusercontent.com/Lin8x/StealthGameJamNum2/master/images/plagueHunter3.png" width="30%" alt="Screenshot 3">
+  <img src="https://raw.githubusercontent.com/Lin8x/StealthGameJamNum2/master/images/plagueHunter4.png" width="30%" alt="Screenshot 4">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lin8x/StealthGameJamNum2/master/images/plagueHunter5.png" width="30%" alt="Screenshot 5">
+  <img src="https://raw.githubusercontent.com/Lin8x/StealthGameJamNum2/master/images/plagueHunter6.png" width="30%" alt="Screenshot 6">
+</p>
 
 ## Download and Installation
 
